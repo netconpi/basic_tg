@@ -1,2 +1,4 @@
 
-TOKEN = "5491477056:AAENVeEEHvKQbwJaxJY6UfQQIYd1aLr3_3M"
+# BEST -- USE ENV VAR, but for FL prj's better use this 
+
+TOKEN = "TOKEN"
